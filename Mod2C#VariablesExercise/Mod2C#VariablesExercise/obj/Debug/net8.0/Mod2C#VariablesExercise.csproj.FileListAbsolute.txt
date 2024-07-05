@@ -1,0 +1,14 @@
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\bin\Debug\net8.0\Mod2C#VariablesExercise.exe
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\bin\Debug\net8.0\Mod2C#VariablesExercise.deps.json
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\bin\Debug\net8.0\Mod2C#VariablesExercise.runtimeconfig.json
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\bin\Debug\net8.0\Mod2C#VariablesExercise.dll
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\bin\Debug\net8.0\Mod2C#VariablesExercise.pdb
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\obj\Debug\net8.0\Mod2C#VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\obj\Debug\net8.0\Mod2C#VariablesExercise.AssemblyInfoInputs.cache
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\obj\Debug\net8.0\Mod2C#VariablesExercise.AssemblyInfo.cs
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\obj\Debug\net8.0\Mod2C#VariablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\obj\Debug\net8.0\Mod2C#VariablesExercise.dll
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\obj\Debug\net8.0\refint\Mod2C#VariablesExercise.dll
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\obj\Debug\net8.0\Mod2C#VariablesExercise.pdb
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\obj\Debug\net8.0\Mod2C#VariablesExercise.genruntimeconfig.cache
+C:\Users\pamel\OneDrive\Desktop\repos\Mod2C#VariablesExercise\Mod2C#VariablesExercise\obj\Debug\net8.0\ref\Mod2C#VariablesExercise.dll
